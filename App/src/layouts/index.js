@@ -1,2 +1,4 @@
 import DefaultLayout from './Default';
-export { DefaultLayout };
+import HeaderNavigation from './HeaderNavigation';
+import IconSidebarLayout from './IconSidebar';
+export { DefaultLayout, HeaderNavigation, IconSidebarLayout };
